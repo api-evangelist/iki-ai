@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+source: https://iki.ai/updates
+scheme: semantic-version
+dated: false
+note: >-
+  IKI AI publishes a product updates / release-notes page keyed by app version
+  (undated). Entries below are captured verbatim from the public updates page;
+  no release dates are published.
+current_version: '1.2'
+entries:
+- version: '1.2'
+  date: null
+  highlights:
+  - Major update of collections with notes, flexible drag & drop mechanics
+  - Hot editing and AI enhancement button
+  - Searchable library
+  - Bug fixes
+- version: '1.1'
+  date: null
+  highlights:
+  - Collections and library enhancements
+- version: '1.0'
+  date: null
+  highlights:
+  - New desktop navigation with sidebar
+  - Lighter library cards with a summarizer model
