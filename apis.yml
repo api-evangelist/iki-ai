@@ -13,6 +13,17 @@ description: >-
   public developer API, SDKs, or OpenAPI. This profile tracks its public
   identity, commercial, and security surface in the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/iki-ai/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
