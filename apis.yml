@@ -48,7 +48,7 @@ modified: '2026-07-19'
 tags:
 - Company
 - Artificial Intelligence
-- Knowledge-Management
+- Knowledge Management
 - Research
 - Productivity
 - LLM
@@ -63,6 +63,7 @@ tags_raw:
 - LLM
 - Note Taking
 - Team Collaboration
+- Knowledge-Management
 apis: []
 maintainers:
 - FN: Kin Lane
