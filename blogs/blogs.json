@@ -2,6 +2,13 @@
   "repo": "iki-ai",
   "feeds": [
     {
+      "source": "https://medium.com/@ivanilin_iki",
+      "feed_url": "https://medium.com/feed/@ivanilin_iki",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://www.iubenda.com/privacy-policy/39334813",
       "feed_url": "https://www.iubenda.com/privacy-policy/39334813",
       "title": "",
@@ -10,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
